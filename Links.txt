@@ -1,0 +1,12 @@
+Github
+
+https://github.com/kamaluniyal/Udacity-capstoneProj
+
+CircleCI
+
+https://app.circleci.com/pipelines/github/kamaluniyal/Udacity-capstoneProj
+
+Website
+
+http://a0c851f45c20a49cda1fc2392d654b8a-1344865947.us-west-2.elb.amazonaws.com/
+
